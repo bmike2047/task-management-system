@@ -5,7 +5,7 @@ Task Management System
 ### Description
 This is a simple project of a task management system that's composed of 3 separated components (3 tier):
 * tms-backend responsible for the business layer. It exposes API via REST using Spring boot and Spring data
-* tms-frontend responsible for the presentation layer using Spring boot and Thymeleaf views
+* tms-frontend responsible for the presentation layer using Spring boot, Thymeleaf views and Bootstrap
 * MongoDB as a database
 
 You can skip the rest of this document by clicking on this [demo video here](#demo-video) <br/>
@@ -67,7 +67,7 @@ Here we can see the backend is generating some test data via application.propert
 Web interface can be accessed here: http://localhost:8080/
 ![](assets/images/screen4.png)
 Validation of create/edit task is done client side via JS
-![](assets/images/screen5.png)!
+![](assets/images/screen5.png)
 ![](assets/images/screen6.png)
 
 ### Final design notes
