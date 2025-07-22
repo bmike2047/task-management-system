@@ -6,6 +6,9 @@ build/
 !**/src/test/**/build/
 tms-frontend.log
 tms-backend.log
+tms-backend/build/
+tms-frontend/build/
+
 
 ### IntelliJ IDEA ###
 .idea/
