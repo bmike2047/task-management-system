@@ -89,10 +89,8 @@ It is not ready for production by any means as this iteration is missing some im
 
 
 ### Demo video
+[video-tms.webm](https://github.com/user-attachments/assets/24158462-0887-490b-8bad-46c8a35842b4)
 
-<a href="https://youtu.be/T4DFm_3uVBk">
-    <img src="https://img.youtube.com/vi/T4DFm_3uVBk/maxresdefault.jpg"  alt="Demo video"/>
-</a>
 
 
 
